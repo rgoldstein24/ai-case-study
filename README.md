@@ -20,7 +20,7 @@
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-    "OpenAI, Inc created the for-profit OpenAI, LP, it likely could have invested the vast majority of its money into the for-profit company without triggering UPMIFA since the for-profit company investment is directly related to the nonprofit’s mission of creating safe AGI."
+    '''"OpenAI, Inc created the for-profit OpenAI, LP, it likely could have invested the vast majority of its money into the for-profit company without triggering UPMIFA since the for-profit company investment is directly related to the nonprofit’s mission of creating safe AGI." - **axiomalpha**'''
     
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
     Its reach is broad, including businesses, developers, researchers, and the general public.
@@ -60,8 +60,14 @@
     
 * Why do you think that offering this product or service would benefit the company?
     People would pay the fee to have this service.
+    
+* What technologies would this additional product or service utilize?
+    Machine learning and deep learning models
 
+* Why are these technologies appropriate for your solution?
+    It is appropriate as these models would help answer more difficult questions.
+    
 ## Addendum
 
-* https://www.techopedia.com/who-owns-openai
-* https://axiomalpha.com/how-openai-legally-switched-from-nonprofit-to-for-profit/
+* [techopedia](https://www.techopedia.com/who-owns-openai)
+* [axiomalpha](https://axiomalpha.com/how-openai-legally-switched-from-nonprofit-to-for-profit/)
