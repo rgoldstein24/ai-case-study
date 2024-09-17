@@ -20,7 +20,7 @@
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-    '''"OpenAI, Inc created the for-profit OpenAI, LP, it likely could have invested the vast majority of its money into the for-profit company without triggering UPMIFA since the for-profit company investment is directly related to the nonprofit’s mission of creating safe AGI." - **axiomalpha**'''
+    >"OpenAI, Inc created the for-profit OpenAI, LP, it likely could have invested the vast majority of its money into the for-profit company without triggering UPMIFA since the for-profit company investment is directly related to the nonprofit’s mission of creating safe AGI." - **axiomalpha**
     
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
     Its reach is broad, including businesses, developers, researchers, and the general public.
